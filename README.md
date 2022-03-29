@@ -1,5 +1,5 @@
 # project02
-open-source healthcare management system
+open-source cc management system
 
 ************************************************************************************************************************************************
 
