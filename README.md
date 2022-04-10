@@ -28,13 +28,21 @@ a.able to upload new covid report/status of india,india’s states and world.
 b.He/She(doctor/nurse etc.) able to admit new bed for new patient if they may be covid positive or negative .
 
 c.Admin able to upload free bed status(which was booked before) directly to server.
+
 d.Admin able to view all admit patient’s bed status.
+
 e.Admin able to see all type of “BOOKED” and “FREE” bed sttaus.
+
 f.Admin able to see a perticular bed status - that ,who is currently on that bed right now , what’s the bed full condition. It’s will save a huge time for free-bed seekers.
+
 g.Admin able to see all admit request’s which send by visitors .
+
 h.Admin able to register new patient , find patient’s info by ID and also able to find patient’s full infomation using his/her primary-phone number and fullname(of patinet’s).
+
 i.Admin also able to see daily free test’s reports and also sort report by date.
+
 j.Also , able to see isolated patient’s reports - sort their report by their patient ID / Name or , even sort reports by date and along with able to view all isolation daily test reports .
+
 k.all admited patient’s records will store into a separate table into the database.
 
 
@@ -47,7 +55,9 @@ k.all admited patient’s records will store into a separate table into the data
 1. in every you will find a connection.php file , now there have 4 fields - host,user,pass,db ; now for local machine 
 if you use windows or either linux or mac , 
 the pass(denotes password of mysql/phpmyadmin) -> will be changed according to system configuration.
+
 2. you will find 2nd file , covidreportDBconfig.php -> this file , configuration also need to done carefully ... ok :) 
+
 3. admin pannel authentification - 
 userid - admin
 password - admin123
@@ -55,8 +65,10 @@ password - admin123
 * setup & configure to our system - 
 -> windows -  put all the files under C:\xampp\htdocs (xampp users only)
 xampp : https://www.apachefriends.org/index.html
+
 -> linux - /var/www/html -> put all the files .
 or, xampp -> /opt/lampp/htdocs -> put all the files  [for xampp' users]
+
 -> mac - find from youtube that how we can configure into mac as php coding files.
 
 * for server-production deployment - 
