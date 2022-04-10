@@ -1,6 +1,6 @@
 ﻿
 /*
-readme for open-source healthcare system ...... 
+readme for open-source covid-19 management system ...... 
 
 * Important files configuration - 
 
