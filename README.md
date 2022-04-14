@@ -5,29 +5,48 @@
 
 Project features -
 1. Visitors -
+
 a. visitors directly able to see the covid-19 report of india,states of india and all over world.
+
 b. They able to raise request of admit to hospital/healthcare.
+
 2. Patient’s -
+
 a. They able to register themselves .
+
 b. login /logout themselves.
+
 d. They can upload daily covid free test’s reports and isolation reports.
+
 e. They can find their full information, reset password quickly , delete their their account . 
+
 3. Admin -
+
 a. Admin able to upload new covid report/status of india,india’s states and world.
+
 b Admin able to upload free bed status(which was booked before) and also generate patient’s 
 total bill .
+
 c. Admin able to view all admit patient’s bed status and able to see all type of “BOOKED” and 
 “FREE” bed status .
+
 d. Admin able to see a particular bed status - that ,who is currently on that bed right now , 
 what’s the bed full condition. It’s will save a huge time for free-bed seekers.
+
 e. Admin able to see all admit request’s which send by visitors .
+
 f. Admin also able to see daily free test’s reports and also sort report by date.
+
 g. Also , able to see isolated patient’s reports - sort their report by their patient ID / Name or , 
 even sort reports by date and along with able to view all isolation daily test reports .
+
 h. admin able to update cost of current using this project healthcare/hospital(ex. Per day livingcost,iccu or other ward cost separately).
+
 i. admin also add new admins and logout itself.
+
 * For security purpose of admin-panel, we have integrated login-logout system into admin 
 panel.
+
 * All admitted patient’s records will store into a separate table into the database.
 
 *************************************************************************************************************************************************
